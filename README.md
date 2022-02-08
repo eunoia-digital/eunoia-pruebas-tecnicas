@@ -1,3 +1,3 @@
-# Eunoia pruebas tecnicas
+# Eunoia pruebas técnicas
 
 Pruebas técnicas:

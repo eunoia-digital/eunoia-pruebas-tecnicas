@@ -1,5 +1,5 @@
 # Eunoia - Prueba técnica frontend react
-Gracias por tomarte tu tiempo en hacer esta prueba técnica. Si tienes dudas o quieres hacernos comentarios envíalos a <info@eunoia.es>
+Gracias por tomarte tu tiempo en hacer esta prueba técnica. Si tienes dudas o quieres hacernos comentarios envíalos a <software@eunoia.es>
 
 
 ## Prueba técnica
@@ -21,6 +21,6 @@ No es requisito pero se valorará positivamente:
 
 
 ## Instrucciones
-- Enviar un archivo *.zip* a <info@eunoia.es>. El archivo debe incluir:
+- Enviar un archivo *.zip* a <software@eunoia.es>. El archivo debe incluir:
   - El proyecto estructurado en carpetas.
   - Un archivo *readme.md* con la información necesaria para ejecutar la aplicación más los comentarios sobre la prueba que creas necesarios.

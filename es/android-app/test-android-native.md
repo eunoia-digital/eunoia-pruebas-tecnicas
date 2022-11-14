@@ -8,6 +8,7 @@ La tarea consiste en crear una aplicación de dos pantallas. La primera tendrá 
 
 ## Requisitos
 - Se debe utilizar *Android Studio* con *Kotlin*.
+- Se debe utilizar la arquitectura MVVM.
 - La lista de contactos será de tamaño fijo y tendrá 20 elementos (los contactos pueden ser inventados).
 - El diseño de las pantallas es libre.
 - La app debe tener dos pantallas entre las que tiene que ser posible navegar.
@@ -18,7 +19,9 @@ La tarea consiste en crear una aplicación de dos pantallas. La primera tendrá 
 No es requisito pero se valorará positivamente:
 - Utilizar buenas prácticas de desarrollo para Android con Kotlin.
 - Clean code.
-- Justificación de arquitectura y patrones utilizados.
+- Justificación de patrones utilizados.
+- Utilización de Single Activity Architecture.
+- Utilización del Navigation Component.
 
 
 ## Instrucciones
